@@ -1,0 +1,12 @@
+{
+  "client_time": "2026-11-20T10:00:00Z",
+  "reference_time": "2026-11-20T10:07:00Z",
+  "certificate": {
+    "not_before": "2026-11-20T10:04:00Z",
+    "not_after": "2026-11-21T10:04:00Z"
+  },
+  "kerberos": {
+    "kdc_time": "2026-11-20T10:07:00Z",
+    "tolerance_seconds": 300
+  }
+}
